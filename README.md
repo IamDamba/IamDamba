@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**IamDamba/IamDamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**📫 How to reach me: ...
-**📫 How to reach me: ...
-**📫 How to reach me: ...
-**👯 I’m looking to collaborate on ...
-
-
-Here are some ideas to get you started:
+### Hello, I'a IamDamba !! 👋
 
 - 🔭 I’m currently working on Personal Project
 - 🌱 I’m currently learning ReactJS, NodeJS & Xamarin Forms
