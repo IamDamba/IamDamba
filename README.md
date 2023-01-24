@@ -1,5 +1,7 @@
 ### Salut, Je suis Damba, Developpeur Front-End !! 👋
 
+Je suis spécialisé dans les technologies Javascript (ReactJS, NextJS, VueJS, NodeJS, Express, etc...)
+
 N'hesitez pas à consulter mes différents réseaux ou à regarder mes différents projets sur Github!!
 
 Aller checker mon site web ici : https://iamdamba-developer.vercel.app
