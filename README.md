@@ -1,9 +1,7 @@
-### Hello, I'a IamDamba !! 👋
+### Salut, Je suis Damba, Developpeur Front-End !! 👋
 
-- 🔭 I’m currently working on Personal Project
-- 🌱 I’m currently learning ReactJS, NodeJS, Xamarin Forms & Unity3D
-- 💬 Ask me about my next job !!
+N'hesitez pas à consulter mes différents réseaux ou à regarder mes différents projets sur Github!!
 
-Go check my website : https://iamdamba-developer.vercel.app
+Aller checker mon site web ici : https://iamdamba-developer.vercel.app
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamdamba&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
